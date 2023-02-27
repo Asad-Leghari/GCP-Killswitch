@@ -1,0 +1,9 @@
+{
+    "budgetDisplayName": "budget-name",
+    "alertThresholdExceeded": 1.0,
+    "costAmount": 60.00,
+    "costIntervalStart": "2023-01-01T00:00:00Z",
+    "budgetAmount": 50.00,
+    "budgetAmountType": "SPECIFIED_AMOUNT",
+    "currencyCode": "USD"
+}
