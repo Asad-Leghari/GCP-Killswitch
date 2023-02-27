@@ -66,5 +66,3 @@ const diabling = async (projectName) => {
     });
     return `${JSON.stringify(response.data)}`;
 };
-
-export default disable_Billing
